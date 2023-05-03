@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Berkman_Final_DMV.props" />
+</Project>
